@@ -1,16 +1,80 @@
-## Hi there 👋
+# ¡Hola! Soy Karla Mendoza 👋
 
-<!--
-**karla800/karla800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&width=500&lines=Ingenier%C3%ADa+en+Ciencia+de+Datos+%40+UV;Interesada+en+IA+%26+An%C3%A1lisis+Multivariado;Gesti%C3%B3n+de+Bases+de+Datos+%26+Data+Viz" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Sobre mí
+- 🎓 Estudiante de **5.° semestre de Ingeniería en Ciencia de Datos** en la **Universidad Veracruzana**.
+- 📍 Basada en **Xalapa, Veracruz, México**.
+- 📊 Interesada en **Análisis Multivariado, Modelado Estadístico e Inteligencia Artificial**.
+- 🗄️ Apasionada por estructurar **Bases de Datos** y diseñar **Visualizaciones de Datos** claras para la toma de decisiones.
+- 🚀 En constante aprendizaje, buscando transformar datos complejos en soluciones prácticas.
+
+---
+
+### 🛠️ Áreas de Enfoque y Tecnologías
+
+#### 📈 Análisis de Datos & Estadística
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+#### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+#### 📊 Visualización de Datos (Data Viz)
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+#### ⚙️ Entornos y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+*(Aquí puedes enlazar tus repositorios fijados principales una vez ordenados)*
+
+- 📁 **[Análisis de Cancelaciones de Netflix en Xalapa](#)**  
+  *Estudio enfocado en identificar patrones de churn mediante análisis exploratorio de datos y técnicas estadísticas multivariadas.*
+
+---
+
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karla800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Karla" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karla800&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%" />
+</div>
+
+---
+
+### 📫 Contacto
+<p align="left">
+  <a href="mailto:karlavaleria608@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
