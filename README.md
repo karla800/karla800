@@ -8,7 +8,6 @@
 
 ### 👩‍💻 Sobre mí
 - 🎓 Estudiante de **5.° semestre de Ingeniería en Ciencia de Datos** en la **Universidad Veracruzana**.
-- 📍 De **Xalapa**.
 - 📊 Interesada en **Análisis Multivariado, Modelado Estadístico e Inteligencia Artificial**.
 - 🗄️ Apasionada por estructurar **Bases de Datos** y diseñar **Visualizaciones de Datos** claras para la toma de decisiones.
 - 🚀 En constante aprendizaje, buscando transformar datos complejos en soluciones prácticas.
