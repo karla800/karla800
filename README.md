@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mí
 - 🎓 Estudiante de **5.° semestre de Ingeniería en Ciencia de Datos** en la **Universidad Veracruzana**.
-- 📍 Basada en **Xalapa**.
+- 📍 De **Xalapa**.
 - 📊 Interesada en **Análisis Multivariado, Modelado Estadístico e Inteligencia Artificial**.
 - 🗄️ Apasionada por estructurar **Bases de Datos** y diseñar **Visualizaciones de Datos** claras para la toma de decisiones.
 - 🚀 En constante aprendizaje, buscando transformar datos complejos en soluciones prácticas.
@@ -45,19 +45,16 @@
 ---
 
 ### 📌 Proyectos Destacados
-*(Aquí puedes enlazar tus repositorios fijados principales una vez ordenados)*
+Aquí comparto algunos de mis trabajos y prácticas enfocados en Ciencia de Datos, Estadística y Visualización:
 
-- 📁 **[Análisis de Cancelaciones de Netflix en Xalapa](#)**  
-  *Estudio enfocado en identificar patrones de churn mediante análisis exploratorio de datos y técnicas estadísticas multivariadas.*
+* ⚡ **[Predicción Demanda Eléctrica CENACE](https://github.com/karla800/Prediccion-Demanda-Electrica-CENACE)** 
+  Proyecto enfocado en pronósticos y análisis de series de tiempo para la demanda eléctrica.
 
----
+* 📊 **[Análisis de Correspondencia - Alcohol](https://github.com/karla800/Analisis-Correspondencia-Alcohol)**
+  Aplicación práctica de técnicas de análisis multivariado para explorar relaciones entre variables categóricas.
 
-### 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karla800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Karla" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karla800&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%" />
-</div>
+* 💻 **[Dashboard Investigadores México](https://github.com/karla800/Dashboard--Investigadores-Mexico)**
+  Tablero interactivo para la visualización y análisis de datos enfocados en el ámbito de la investigación.
 
 ---
 
